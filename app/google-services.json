@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459444890991",
+    "project_id": "firebase-socialloginexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459444890991:android:c9d3068f78938822",
+        "android_client_info": {
+          "package_name": "com.acadgild.socialmediaexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459444890991-gbpmmpg0r1uv1v3e96b5ne5083dupq03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acadgild.socialmediaexample",
+            "certificate_hash": "7E2718A96E1288FE45A5A3B2349EBA76EE2D3194"
+          }
+        },
+        {
+          "client_id": "459444890991-9dqupcnm1ed2cr6u0rdi91ssc1c014gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ7XgIvd7Y0XNyrTaH1fTEi2a9fjAYjxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
